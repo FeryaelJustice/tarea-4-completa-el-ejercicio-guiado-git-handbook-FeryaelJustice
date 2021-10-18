@@ -34,70 +34,24 @@ Hacemos commit
 
 Subimos los cambios
 
-## Apartado B
+## Apartado B (Junté el segundo y tercer ejemplo porque son lo mismo)
 
 1. ![](steps/b/step1.jpg) 
 
-Copiamos el link del repo para el clone
+Hacemos pull del remote repo
 
 2. ![](steps/b/step2.jpg) 
 
-Hacemos el clone
+Cambiamos de branch
 
 3. ![](steps/b/step3.jpg) 
 
-Entramos a la carpeta del repo en local
+Hacemos cambios y hacemos el add .
 
 4. ![](steps/b/step4.jpg) 
 
-Creamos una rama
+Hacemos commit
 
 5. ![](steps/b/step5.jpg) 
 
-Nos cambiamos a nuestra nueva rama
-
-6. ![](steps/b/step6.jpg) 
-
-Hacemos cambios y los añadimos con git add
-
-7. ![](steps/b/step7.jpg) 
-
-Hacemos commit
-
-8. ![](steps/b/step8.jpg) 
-
-Subimos los cambios
-
-## Apartado C
-
-1. ![](steps/c/step1.jpg) 
-
-Copiamos el link del repo para el clone
-
-2. ![](steps/c/step2.jpg) 
-
-Hacemos el clone
-
-3. ![](steps/c/step3.jpg) 
-
-Entramos a la carpeta del repo en local
-
-4. ![](steps/c/step4.jpg) 
-
-Creamos una rama
-
-5. ![](steps/c/step5.jpg) 
-
-Nos cambiamos a nuestra nueva rama
-
-6. ![](steps/c/step6.jpg) 
-
-Hacemos cambios y los añadimos con git add
-
-7. ![](steps/c/step7.jpg) 
-
-Hacemos commit
-
-8. ![](steps/c/step8.jpg) 
-
-Subimos los cambios
+Hacemos push
