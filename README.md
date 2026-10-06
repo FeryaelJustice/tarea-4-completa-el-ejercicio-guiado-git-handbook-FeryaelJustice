@@ -4,7 +4,7 @@
 
 1. ![](steps/a/step1.jpg) 
 
-Copiamos el link del repo para el clone
+Copiamos el enlace del repositorio para clonarlo
 
 2. ![](steps/a/step2.jpg) 
 
@@ -38,15 +38,15 @@ Subimos los cambios
 
 1. ![](steps/b/step1.jpg) 
 
-Hacemos pull del remote repo
+Hacemos pull del repositorio remoto
 
 2. ![](steps/b/step2.jpg) 
 
-Cambiamos de branch
+Cambiamos de rama
 
 3. ![](steps/b/step3.jpg) 
 
-Hacemos cambios y hacemos el add .
+Hacemos cambios y ejecutamos git add .
 
 4. ![](steps/b/step4.jpg) 
 
